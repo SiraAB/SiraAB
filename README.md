@@ -1,6 +1,6 @@
 <img align="center" alt="Mon-dotnet" width="100%" src="https://raw.githubusercontent.com/SiraAB/SiraAB/refs/heads/main/desktop.jpg">
 
-<h1><img src="https://raw.githubusercontent.com/SiraAB/SiraAB/refs/heads/main/party_blob.gif" width="30"/> Hello there! my is Sira Abdulla <img src="https://raw.githubusercontent.com/SiraAB/SiraAB/refs/heads/main/party_blob.gif" width="30"/></h1>
+<h1><img src="https://raw.githubusercontent.com/SiraAB/SiraAB/refs/heads/main/party_blob.gif" width="30"/> Hello there! my name is Sira Abdulla <img src="https://raw.githubusercontent.com/SiraAB/SiraAB/refs/heads/main/party_blob.gif" width="30"/></h1>
 
 <div align="center">
  <h2 align="left"=><img src="https://raw.githubusercontent.com/SiraAB/SiraAB/refs/heads/main/meow_partychristmas.gif" width="30"/> Github Stats</h2>
