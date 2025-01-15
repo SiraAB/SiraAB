@@ -1,6 +1,13 @@
 <img align="center" alt="Mon-dotnet" width="100%" src="https://raw.githubusercontent.com/SiraAB/SiraAB/refs/heads/main/desktop.jpg">
 
-<h1> 👋 Hello there! my is Sira Abdulla you can call me Dream 👋 </h1>
+<h1>👋 Hello there! my is Sira Abdulla you can call me Dream 👋</h1>
+
+<div align="center">
+ <h2 align="left"=>🎯 Github Stats</h2>
+    <a href="https://github.com/SiraAB/SiraAB">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siraAB&show_icons=true&theme=gotham&hide_border=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siraAB&layout=compact&langs_count=8&theme=gotham&show_icons=true&hide_border=true" />
+</div>
 
 <div style="display: inline_block"><br>
     <h2 align="left" style="display: inline">🧑‍💻 My Skills 🧑‍💻</h2>
