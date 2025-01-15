@@ -41,15 +41,14 @@
 </div>
 
 <br>
-
+```
  <h5 style="color:yellow;">name : Sira Abdulla</h5>
  <h5 style="color:yellow;">nickname : dream</h5>
  <h5 style="color:yellow;">coding skills : "HTML", "CSS", "JavaScript", "Python", "Dart", "Shell", "C#"</h5>
  <h5 style="color:yellow;">tech skills : "Flutter", "Flask", "AWS", "Docker", "Ubuntu", "Jmeter", "MySQL", "React"</h5>
  <h5 style="color:yellow;">education : "Computer Engineer", "KMITL"</h5>
  <h5 style="color:yellow;">work : "RIS", "Central Retail", "Innovation manager"</h5>
-
-
+```
 <br>
 
 <div>
