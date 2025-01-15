@@ -2,13 +2,6 @@
 
 <h1> 👋 Hello there! my is Sira Abdulla you can call me Dream 👋 </h1>
 
-<div align="center">
- <h2 align="left"=> My Github Stats </h2>
-    <a href="https://github.com/SiraAB">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aekarinongart&show_icons=true&theme=gotham&hide_border=true" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aekarinongart&layout=compact&langs_count=8&theme=gotham&show_icons=true&hide_border=true" />
-</div>
-
 <div style="display: inline_block"><br>
     <h2 align="left" style="display: inline">🧑‍💻 My Skills 🧑‍💻</h2>
     <a href="https://html.spec.whatwg.org/multipage" target="_blank">
