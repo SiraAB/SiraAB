@@ -1,9 +1,9 @@
 <img align="center" alt="Mon-dotnet" width="100%" src="https://raw.githubusercontent.com/SiraAB/SiraAB/refs/heads/main/desktop.jpg">
 
-<h1>👋 Hello there! my is Sira Abdulla 👋</h1>
+<h1><img src="https://raw.githubusercontent.com/SiraAB/SiraAB/refs/heads/main/party_blob.gif" width="30"/> Hello there! my is Sira Abdulla <img src="https://raw.githubusercontent.com/SiraAB/SiraAB/refs/heads/main/party_blob.gif" width="30"/></h1>
 
 <div align="center">
- <h2 align="left"=>🎯 Github Stats</h2>
+ <h2 align="left"=><img src="https://raw.githubusercontent.com/SiraAB/SiraAB/refs/heads/main/meow_partychristmas.gif" width="30"/> Github Stats</h2>
     <a href="https://github.com/SiraAB/SiraAB">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siraAB&show_icons=true&theme=gotham&hide_border=true" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siraAB&layout=compact&langs_count=8&theme=gotham&show_icons=true&hide_border=true" />
@@ -41,7 +41,7 @@
 </div>
 
 <div>
-    <h2 align="left"> Connect with me </h2>
+    <h2 align="left"><img src="https://raw.githubusercontent.com/SiraAB/SiraAB/refs/heads/main/loading.gif" width="30"/> Connect with me </h2>
     <a href="https://www.linkedin.com/in/sira-abdulla-147338326/" target="_blank">
        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="22">
     </a>
