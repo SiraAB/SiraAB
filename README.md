@@ -66,3 +66,7 @@
 </div>
 
 ![](https://raw.githubusercontent.com/SiraAB/SiraAB/6d0493b5f1d89e4ef5b353640ff4f41b431c29ce/github-contribution-grid-snake-dark.svg)
+
+<br>
+
+<img align="center" alt="Mon-dotnet" width="100%" src="https://raw.githubusercontent.com/SiraAB/SiraAB/refs/heads/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
