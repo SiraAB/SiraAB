@@ -1,6 +1,6 @@
 <img align="center" alt="Mon-dotnet" width="100%" src="https://raw.githubusercontent.com/SiraAB/SiraAB/refs/heads/main/desktop.jpg">
 
-<h1>👋 Hello there! my is Sira Abdulla you can call me Dream 👋</h1>
+<h1>👋 Hello there! my is Sira Abdulla 👋</h1>
 
 <div align="center">
  <h2 align="left"=>🎯 Github Stats</h2>
