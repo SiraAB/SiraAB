@@ -43,7 +43,7 @@
 <br>
 
  <h5 style="color:yellow;">name : Sira Abdulla</h5>
- <h5 style="color:yellow;">nickname : dream</h5>
+ <h5 style="color:yellow;">nickname : Dream</h5>
  <h5 style="color:yellow;">coding skills : "HTML", "CSS", "JavaScript", "Python", "Dart", "Shell", "C#"</h5>
  <h5 style="color:yellow;">tech skills : "Flutter", "Flask", "AWS", "Docker", "Ubuntu", "Jmeter", "MySQL", "React"</h5>
  <h5 style="color:yellow;">education : "Computer Engineer", "KMITL"</h5>
